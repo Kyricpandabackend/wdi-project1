@@ -1,0 +1,38 @@
+body { background-color: blanchedalmond;
+      font-size: 100%;
+      
+
+
+
+}
+
+h1{ height: 90px; 
+    
+
+ 
+
+}
+
+
+
+p{
+color: mediumblue;
+font-size: 20px;
+
+
+
+
+}
+.profile-image{  -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+    margin: 23px 45px 23px 45px;
+    border-radius: 25px;
+    height: 200px;   
+    width: 200px;
+    
+
+
+
+
+}
