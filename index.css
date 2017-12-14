@@ -1,0 +1,52 @@
+body {
+
+    background-color: lightblue;
+    /* display:flex;
+    flex-direction:column-reverse;
+    justify-content: center; */
+   
+}
+.main-container { 
+display: flex; 
+justify-content: space-around;
+}
+.second-container{ 
+ display: flex;
+ justify-content: space-around;
+
+
+}
+.card { 
+    background-color:  red;
+    width: 208px;
+    height: 259px;
+    margin: 30px;
+    
+}
+.flipped{ background-color: green;
+
+
+}
+  h1{ text-align: center;
+
+
+}
+
+p{text-align: center;
+}
+img {
+     
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+img{ 
+    
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
